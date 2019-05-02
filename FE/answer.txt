@@ -1,0 +1,13 @@
+Result
+
+1) For this number i already suceeded to generate 1000 number from 0-1 and already decided the bin size and already plot it into the Histogram
+
+2) From the result in folder Nomor2/Result.jpeg, i have found many difficulties in search for a proper image
+of the hand, i found many of them are painted and not exactly as normal hand looks like and within the time limit it's very hard to collect many data. And from the ligthning it's self it's not very bright so it's not very clear and it also makes the detection difficult.
+
+3) For number 3 i already suceeded to evaluate with the Kmeans. And already plot it in the program.
+
+4) For the number 4, i have tried the SVM training and already got the .dat file for the detection. But there are still problem with the codes that i searched in internet so it haven't suceeded yet. 
+
+
+// i'm sorry i cant use the microsoft word program because it's not activated.s
